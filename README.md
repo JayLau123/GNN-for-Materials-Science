@@ -12,6 +12,11 @@ https://distill.pub/2021/gnn-intro/
 3. Understanding Convolutions on Graphs
 https://distill.pub/2021/understanding-gnns/
 
+4. Graph neural networks for materials science and chemistry
+https://www.nature.com/articles/s43246-022-00315-6
+
+5. Graph-based deep learning frameworks for molecules and solid-state materials
+https://www.sciencedirect.com/science/article/abs/pii/S0927025621000574
 
 
 
