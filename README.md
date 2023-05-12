@@ -3,14 +3,16 @@ GNN for materials design. Pre-training model, dataset, etc.
 
 #### Quick start for GNN:
 
-A Gentle Introduction to Graph Neural Networks
+1. A Systematic Survey of Chemical Pre-trained Models
+https://github.com/junxia97/awesome-pretrain-on-molecules
+
+2. A Gentle Introduction to Graph Neural Networks
 https://distill.pub/2021/gnn-intro/
 
-Understanding Convolutions on Graphs
+3. Understanding Convolutions on Graphs
 https://distill.pub/2021/understanding-gnns/
 
-A Systematic Survey of Chemical Pre-trained Models
-https://github.com/junxia97/awesome-pretrain-on-molecules
+
 
 
 ### My personal project:
