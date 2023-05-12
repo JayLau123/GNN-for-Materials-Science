@@ -1,9 +1,15 @@
 # GNN-for-Materials-Science
 GNN for materials design. Pre-training model, dataset, etc.
 
-Useful link:
+#### Quick start for GNN:
 
-1. A Systematic Survey of Chemical Pre-trained Models
+A Gentle Introduction to Graph Neural Networks
+https://distill.pub/2021/gnn-intro/
+
+Understanding Convolutions on Graphs
+https://distill.pub/2021/understanding-gnns/
+
+A Systematic Survey of Chemical Pre-trained Models
 https://github.com/junxia97/awesome-pretrain-on-molecules
 
 
