@@ -27,9 +27,9 @@ https://arxiv.org/abs/1609.02907
 8. Neural Message Passing for Quantum Chemistry
 https://arxiv.org/abs/1704.01212
 
-9. Graph Attention Networks
+9. Graph Attention Networks(one of the first model to use attention as a graph convolutional operation)
 https://arxiv.org/abs/1710.10903
-(one of the first model to use attention as a graph convolutional operation)
+
 
 ### My personal project:
 
