@@ -30,6 +30,38 @@ https://arxiv.org/abs/1704.01212
 9. Graph Attention Networks(one of the first model to use attention as a graph convolutional operation)
 https://arxiv.org/abs/1710.10903
 
+10. Simplifying Graph Convolutional Networks
+https://arxiv.org/pdf/1902.07153.pdf
+
+11. Temporal Graph Networks for Deep Learning on Dynamic Graphs
+https://arxiv.org/abs/2006.10637
+
+12. Representation Learning for Dynamic Graphs: A Survey
+https://arxiv.org/abs/1905.11485
+
+
+
+
+
+**Important Names in GNNs**
+
+**Jure Leskovec** (Stanford, chief scientist @ Pinterest) 
+
+**William Hamilton** (McGill, wrote the book on GNNs)
+
+**Key Readings**
+
+1. Graph Representation Learning Textbook (Hamilton, 2020)
+(Especially Chapters 5-7 to catch up to the cutting-edge and you can actually do some research based on that)
+
+2. A Comprehensive Survey on Graph Neural Networks (2019)
+
+3. Hamilton's class on GNNs from Winter 2020
+
+https://cs.mcgill.ca/~wIh/comp766/schedule.html
+
+For some anecdotes and stories about GNN, search on Youtube from the people who created these algorithms whenever possible. Talks can provide context that papers cannot.
+
 
 ### My personal project:
 
