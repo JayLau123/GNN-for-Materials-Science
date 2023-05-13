@@ -21,6 +21,16 @@ https://www.sciencedirect.com/science/article/abs/pii/S0927025621000574
 6. TensorFlow Graph Neural Network Samples
 https://github.com/microsoft/tf-gnn-samples/
 
+7. Semi-Supervised Classification with Graph Convolutional Networks
+https://arxiv.org/abs/1609.02907
+
+8. Neural Message Passing for Quantum Chemistry
+https://arxiv.org/abs/1704.01212
+
+9. Graph Attention Networks
+https://arxiv.org/abs/1710.10903
+(one of the first model to use attention as a graph convolutional operation)
+
 ### My personal project:
 
 ### Inverse Problem: Graph theory+ CNN for molecular structure reconstruction(Current project)
